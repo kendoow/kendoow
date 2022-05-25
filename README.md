@@ -6,7 +6,7 @@
 
 - :fire: &nbsp;I develop platforms using **Typescript**
 - ☄️ &nbsp;I'm interested in **Node js**
-- :speech_balloon: &nbsp; Know how to work in team
+- :speech_balloon: &nbsp;Know how to work in team
 - :writing_hand: &nbsp;In my free time i read tech articles and learning new technologies
 
 
